@@ -48,9 +48,17 @@ Pantalla 2
 * 10 -> D13
 
 Los pines 3 y 8 de cada Pantalla tienen que ir conectados a 3,3v
+## Esquema
+Este es el esquema de como podrían ir conectadas las pantallas a nuestra placa de Arduino
 
-## Hora de Programar
-En este proyecto se sube el archivo con el codigo comentado a español
+![alt text](https://raw.githubusercontent.com/FerminOrtega/Pantalla-Siete-Segmentos-de-00-a-99---Arduino/master/Esquema.png)
+
+## Hora de Programar!
+En este proyecto se sube el archivo con el codigo comentado a español [Pantalla Siete Segmentos](https://github.com/FerminOrtega/Pantalla-Siete-Segmentos-de-00-a-99---Arduino/blob/master/PantallasSieteSegmentos.ino)
+
+## Resultado Final
+
+[![Pantallas Siete Segmentos](http://img.youtube.com/vi/y6kuDOGw5MA/0.jpg)](http://www.youtube.com/watch?v=y6kuDOGw5MA "Pantallas Siete Segmentos")
 
 
 
