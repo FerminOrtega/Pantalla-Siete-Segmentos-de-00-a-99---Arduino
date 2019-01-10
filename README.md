@@ -30,8 +30,28 @@ El esquema de los pines de las pantallas de siete segmentos se ven así:
 ## Cómo conectamos las Pantallas a la placa
 Según la imagen anterior conectaremos los pines de nuestra pantalla a la placa de arduino
 Pantalla 1
-7 -> D0
-6 -> D0
-4 -> D0
+* 7 -> D0
+* 6 -> D1
+* 4 -> D2
+* 2 -> D3
+* 1 -> D4
+* 9 -> D5
+* 10 -> D6
+
+Pantalla 2
+* 7 -> D7
+* 6 -> D8
+* 4 -> D9
+* 2 -> D12
+* 1 -> D11
+* 9 -> D12
+* 10 -> D13
+
+Los pines 3 y 8 de cada Pantalla tienen que ir conectados a 3,3v
+
+## Hora de Programar
+En este proyecto se sube el archivo con el codigo comentado a español
+
+
 
 
