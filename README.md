@@ -28,3 +28,10 @@ El esquema de los pines de las pantallas de siete segmentos se ven así:
 ![alt text](https://www.moodle.gym-wst.de/pluginfile.php/1205/mod_label/intro/sieben_seg_pinbelegung.png)
 
 ## Cómo conectamos las Pantallas a la placa
+Según la imagen anterior conectaremos los pines de nuestra pantalla a la placa de arduino
+Pantalla 1
+7 -> D0
+6 -> D0
+4 -> D0
+
+
